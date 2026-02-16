@@ -1,19 +1,32 @@
-# Job Portal System
+# Job Portal System (Spring Boot Backend)
 
-Backend project built using Spring Boot and MySQL.
+This is a backend project built using Spring Boot and MySQL. It provides REST APIs for user authentication and job management.
 
 ## Technologies Used
 - Java
 - Spring Boot
-- MySQL
 - Spring Data JPA
+- Hibernate
+- MySQL
+- Maven
+- REST API
 
 ## Features
 - User Registration
 - User Login
 - Add Job
-- View Jobs
+- View All Jobs
 
 ## Tools Used
-- VS Code
+- IntelliJ IDEA
 - Postman
+- MySQL Workbench
+
+## Project Structure
+- Controller Layer
+- Service Layer
+- Repository Layer
+- Model Layer
+
+## Author
+Vaishnavi Kharche
